@@ -1,0 +1,14 @@
+django
+gunicorn
+django-heroku
+pandas
+plotly          
+dash            
+dash_core_components
+dash_bootstrap_components
+dash_html_components
+jupyter_dash
+numpy
+datetime 
+altair
+vega_datasets
